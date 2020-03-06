@@ -1,0 +1,6 @@
+class Email
+  @address: String
+
+  def initialize: (address: String) -> untyped
+  def address: -> String
+end
