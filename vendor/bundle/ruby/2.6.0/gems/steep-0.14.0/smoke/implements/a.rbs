@@ -1,6 +1,0 @@
-class A
-  def foo: -> untyped
-  def baz: -> untyped
-  def self.bar: -> untyped
-  def self.baz: -> untyped
-end

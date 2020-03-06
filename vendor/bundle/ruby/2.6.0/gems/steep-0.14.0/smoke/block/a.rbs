@@ -1,6 +1,0 @@
-class A
-  def foo: { (String) -> untyped } -> String
-         | -> Integer
-
-  def bar: { (String) -> Integer } -> Symbol
-end

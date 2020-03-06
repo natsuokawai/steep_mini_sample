@@ -1,4 +1,0 @@
-target :test do
-  check "*.rb"
-  signature "*.rbs"
-end
